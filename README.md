@@ -37,7 +37,8 @@ An AI-powered Streamlit application that automatically generates well-structured
 
 <img width="232" height="162" alt="image" src="https://github.com/user-attachments/assets/45e2249f-cec9-4d24-b6ab-ff02276dca85" />
 
-#Install Dependencies
+---
+# Install Dependencies
 pip install -r requirements.txt
-#Run the Application
+# Run the Application
 streamlit run app.py
